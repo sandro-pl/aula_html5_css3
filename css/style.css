@@ -1,0 +1,23 @@
+body {
+    background: rgb(177, 107, 107);
+    margin-left: 100px;
+    margin-right: 150px;
+}
+h1{
+    color: darkorange;
+    font-family: fantasy;
+}
+h2{
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+p{
+    font-size: 18px;
+
+}
+
+.img_padrao{
+    margin-bottom:20px;
+    width:300px;
+}
